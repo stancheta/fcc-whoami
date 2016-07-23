@@ -15,6 +15,8 @@ node start
 ## project description:
 This is a back end project from [FreeCodeCamp](https://www.freecodecamp.com) where I reverse
 engineer the functionality of [this project](https://cryptic-ridge-9197.herokuapp.com/api/whoami/).
+I haven't created a test file for this project because I am not sure how to create potential
+request headers. 
 
 ### Requirements
 + **User Story:** I can get the IP address, language and operating system for my browser.
@@ -24,6 +26,7 @@ engineer the functionality of [this project](https://cryptic-ridge-9197.herokuap
 + Express
 
 ### Live Demo:
+https://stancheta-whoami.herokuapp.com/
 
 ### license
 [MIT](https://opensource.org/licenses/MIT)
